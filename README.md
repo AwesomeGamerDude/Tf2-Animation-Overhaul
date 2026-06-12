@@ -1,2 +1,1 @@
-# Tf2-Animation-Overhaul
-Some Tf2 Animations
+These arent mine just some left over files if anyone needs them (Paysus)
